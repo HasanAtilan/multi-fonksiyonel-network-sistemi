@@ -1,3 +1,7 @@
+//Kodlama HasanAtilan'a Aittir
+//Benim Yaptiklarimla Bana Gelmeyin
+//Ezerim Sizi :)
+
 #include <time.h>
 #include <pthread.h>
 #include <unistd.h>
@@ -7,7 +11,6 @@
 #include <sys/socket.h>
 #include <netinet/ip.h>
 #include <netinet/udp.h>
- 
 #define MAX_PACKET_SIZE 4096
 #define PHI 0x61C88647
  
