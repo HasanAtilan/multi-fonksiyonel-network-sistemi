@@ -11,8 +11,9 @@
 <p> İP ASN Tarama Sistemi
 <p> Aktif veya Kapali Drop Sistemi
 <p> Network Açık Kontrol Sistemi
-<p> Hat Güvenliği
-
+<p> Hat Güvenliği Sistemi
+<p> Zafiyet Ve Log Sistemi
+  
 <p> Kodlama Tamamen Bana Aittir
 <p> Problem Yaşarsanız Bana Ulaşırsınız
 <p> Genellikle Full-Stack Developerim Her Türlü Yazılımı Kodlarım
