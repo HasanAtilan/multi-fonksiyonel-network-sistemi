@@ -1,4 +1,4 @@
-# Kodlama Bana Aittir Gelişmiş Network Güvenliği ve Pentest Sistemi Coded By MR.HASAN ATİLAN..
+# Kodlama Bana Aittir Gelişmiş Network Sistemi..
 <p> OVH İP Listeleme
 <p> Digitalocean İP Listeleme
 <p> Voxility İP Listeleme
