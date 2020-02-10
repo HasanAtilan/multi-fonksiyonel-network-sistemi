@@ -16,7 +16,6 @@
   
 <p> Kodlama Tamamen Bana Aittir
 <p> Problem Yaşarsanız Bana Ulaşırsınız
-<p> Genellikle Full-Stack Developerim Her Türlü Yazılımı Kodlarım
 
 <p> telegram: @netmrhasan
 <p> twitter: @netmrhasan
